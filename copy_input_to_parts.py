@@ -47,23 +47,35 @@ def map_teema_to_parts(teema_data, parts_template, mapping):
         for col in parts_columns:
             if col in mapping:
                 teema_col = mapping[col]
-                mapped_row[col] = teema_row.get(teema_col, '')
+                # If the mapping value is a key in the teema_row, use the value
+                if teema_col in teema_row:
+                    mapped_row[col] = teema_row.get(teema_col, '')
+                else:
+                    mapped_row[col] = teema_col
             else:
                 mapped_row[col] = ''
         mapped_data.append(mapped_row)
     return mapped_data
 
 
-def write_output(mapped_data, output_csv_path):
+def write_output(mapped_data, output_csv_path, parts_template_path):
     """
-    Write the mapped data to a new CSV file with headers from mapped_data.
+    Write the mapped data to a new CSV file, using the first two rows from
+    Parts_Template.csv as the header and type rows.
     """
     if not mapped_data:
         return
+    # Read the first two rows from the template
+    with open(parts_template_path, mode='r',
+              encoding='utf-8') as template_file:
+        header_row = template_file.readline().rstrip('\n')
+        type_row = template_file.readline().rstrip('\n')
+    # Write to output.csv
     with open(output_csv_path, mode='w', newline='',
               encoding='utf-8') as csvfile:
+        csvfile.write(header_row + '\n')
+        csvfile.write(type_row + '\n')
         writer = csv.DictWriter(csvfile, fieldnames=mapped_data[0].keys())
-        writer.writeheader()
         for row in mapped_data:
             writer.writerow(row)
 
@@ -78,7 +90,7 @@ def main():
     # Map data according to mapping rules
     mapped_data = map_teema_to_parts(teema_data, parts_template, mapping)
     # Write output
-    write_output(mapped_data, OUTPUT_CSV)
+    write_output(mapped_data, OUTPUT_CSV, PARTS_TEMPLATE_CSV)
 
 
 if __name__ == '__main__':
