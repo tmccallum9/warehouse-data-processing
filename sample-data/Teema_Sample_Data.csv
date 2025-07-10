@@ -1,0 +1,176 @@
+Sku,Description,Cost,Price,Country of origin,US H.S Codes
+BAN01BW,The Banda Bath Sheet,15,72,TR,630260
+BOL01BW,The Bolla Bath Sheet,15,72,TR,630260
+CHK01CH,The Charcoal Checkmate,7.1,48,TR,630291
+CHK02TN,The Tan Checkmate,7.1,48,TR,630291
+CHK03OL,The Olive Checkmate,7.1,48,TR,630291
+CHK04AQ,The Aqua Checkmate,7.1,48,TR,630291
+DMN01BG,The Tan Diamante,6.2,48,TR,630291
+DMN02MR,The Maroon Diamante,6.2,48,TR,630291
+DMN03AQ,The Aqua Diamante,6.2,48,TR,630291
+DMN04BL,The Blue Diamante,6.2,48,TR,630291
+DMN07BK,The Black Diamante,6.2,48,TR,630291
+DMR01WT,The White Del Mar,6.25,46,TR,630291
+DMR02CH,The Chocolate Del Mar,6.25,46,TR,630291
+HMP01OL,The Hamptons Blanket in Olive,13.75,76,TR,630231
+HMP02TN,The Hamptons Blanket in Tan,13.75,76,TR,630231
+HMP03BR,The Hamptons Blanket in Brown,13.75,76,TR,630231
+HMP04DM,The Hamptons Blanket in Denim,13.75,76,TR,630231
+HMP05BL,The Hamptons Blanket in Black,13.75,76,TR,630231
+LAY01GR,The Grey Layers,5.5,46,TR,630291
+LAY02BL,The Blue Layers,5.5,46,TR,630291
+LAY03PN,The Pink Layers,5.5,46,TR,630291
+LAY04RN,The Yellow Layers,5.5,46,TR,630291
+LBL01NV,The Labyrinth Blanket in Navy,24,148,TR,630231
+LBL02SK,The Labyrinth Blanket in Sky,24,148,TR,630231
+LBL03TN,The Labyrinth Blanket in Tan,24,148,TR,630231
+LBL04BL,The Labyrinth Blanket in Black,24,148,TR,630231
+LBL05WT,The Labyrinth Blanket in White,24,148,TR,630231
+LBY01NV,The Navy Labyrinth,7.3,52,TR,630291
+LBY02BG,The Tan Labyrinth,7.3,52,TR,630291
+LBY03LL,The Lilac Labyrinth,7.3,52,TR,630291
+LBY04AQ,The Aqua Labyrinth,7.3,52,TR,630291
+LBY05SK,The Sky Labyrinth,7.3,52,TR,630291
+LBY06LM,The Lime Labyrinth,7.3,52,TR,630291
+LBY07TL,The Teal Labyrinth,7.3,52,TR,630291
+LBY08MR,The Maroon Labyrinth,7.3,52,TR,630291
+LBY09FR,The Fire Labyrinth,7.3,52,TR,630291
+LBY10BK,The Black Labyrinth,7.3,52,TR,630291
+LBY11WT,The White Labyrinth,7.3,52,TR,630291
+LGN02NV,The Navy Laguna,7,46,TR,630291
+LHT01NTL,The Linen Herringbone Throw in Natural,29.95,149,TR,630492
+LHT02CML,The Linen Herringbone Throw in Camel,29.95,149,TR,630492
+LHT03CHR,The Linen Herringbone Throw in Charcoal,29.95,149,TR,630492
+LUX-BS-CHO,The Luxe Bath Sheet in Chocolate,14.5,78,TR,630260
+LUX-BS-CHR,The Luxe Bath Sheet in Charcoal,14.5,78,TR,630260
+LUX-BS-JD,The Luxe Bath Sheet in Jade,14.5,78,TR,630260
+LUX-BS-SD,The Luxe Bath Sheet in Sand,14.5,78,TR,630260
+LUX-BS-ST,The Luxe Bath Sheet in Stone,14.5,78,TR,630260
+LUX-BS-WT,The Luxe Bath Sheet in White,14.5,78,TR,630260
+LUX-BT-CHO,The Luxe Bath Towel in Chocolate,8.4,58,TR,630260
+LUX-BT-CHR,The Luxe Bath Towel in Charcoal,8.4,58,TR,630260
+LUX-BT-JD,The Luxe Bath Towel in Jade,8.4,58,TR,630260
+LUX-BT-SD,The Luxe Bath Towel in Sand,8.4,58,TR,630260
+LUX-BT-ST,The Luxe Bath Towel in Stone,8.4,58,TR,630260
+LUX-BT-WT,The Luxe Bath Towel in White,8.4,58,TR,630260
+LUX-HT-CHO,The Luxe Hand Towel in Chocolate,4.3,38,TR,630260
+LUX-HT-CHR,The Luxe Hand Towel in Charcoal,4.3,38,TR,630260
+LUX-HT-JD,The Luxe Hand Towel in Jade,4.3,38,TR,630260
+LUX-HT-SD,The Luxe Hand Towel in Sand,4.3,38,TR,630260
+LUX-HT-ST,The Luxe Hand Towel in Stone,4.3,38,TR,630260
+LUX-HT-WT,The Luxe Hand Towel in White,4.3,38,TR,630260
+LUX-WC-CHO,The Luxe Washcloth in Chocolate,3.6,32,TR,630260
+LUX-WC-CHR,The Luxe Washcloth in Charcoal,3.6,32,TR,630260
+LUX-WC-JD,The Luxe Washcloth in Jade,3.6,32,TR,630260
+LUX-WC-SD,The Luxe Washcloth in Sand,3.6,32,TR,630260
+LUX-WC-ST,The Luxe Washcloth in Stone,3.6,32,TR,630260
+LUX-WC-WT,The Luxe Washcloth in White,3.6,32,TR,630260
+MLB01GR,The Gray Malibu Bath Sheet,7.6,48,TR,630291
+MLB02RU,The Rust Malibu Bath Sheet,7.6,48,TR,630291
+MLB04BG,The Cream Malibu Bath Sheet,7.6,48,TR,630291
+MLB05ST,The Stone Malibu Bath Sheet,7.6,48,TR,630291
+MNT01CH,The Charcoal Montauk,4.8,46,TR,630291
+MNT02ST,The Stone Montauk,4.8,46,TR,630291
+MNT03BR,The Brown Montauk,4.8,46,TR,630291
+MRC01GR,Charcoal Morocco,8,48,TR,630291
+MRC02ST,The Stone Morocco,8,48,TR,630291
+MRC03BL,The Blue Morocco,8,48,TR,630291
+MTH01NV,The Motley Hand Towel in Navy,7.5,22,TR,630260
+MTL01NV,The Motley Bath Sheet in Navy,15,72,TR,630260
+MWWB01SD,The Micro Waffle Wool Blanket in Sand,58.95,294.75,TR,630419
+MWWB02CML,The Micro Waffle Wool Blanket in Camel,58.95,294.75,TR,630419
+MWWB03ST,The Micro Waffle Wool Blanket in Stone,58.95,294.75,TR,630419
+MWWB04CHR,The Micro Waffle Wool Blanket in Charcoal,58.95,294.75,TR,630419
+NBL01NV,The Navy Noble,5.3,46,TR,630291
+NBL02ST,The Stone Noble,5.3,44,TR,630291
+NWP01WT,The White Newport,7,46,TR,630291
+NWP02NV,The Navy Newport,7,46,TR,630291
+RIB-BS-JD,The Ribbed Bath Sheet in Jade,9.95,72,TR,630291
+RIB-BS-LT,The Ribbed Bath Sheet in Latte,9.95,72,TR,630260
+RIB-BS-SPA,The Ribbed Bath Sheet in Spa,9.95,72,TR,630260
+RIB-BS-ST,The Ribbed Bath Sheet in Stone,9.95,72,TR,630260
+RIB-BS-TC,The Ribbed Bath Sheet in Terracotta,9.95,72,TR,630260
+RIB-BS-WT,The Ribbed Bath Sheet in White,9.95,72,TR,630260
+RIB-BT-JD,The Ribbed Bath Towel in Jade,5.8,52,TR,630260
+RIB-BT-LT,The Ribbed Bath Towel in Latte,5.8,52,TR,630260
+RIB-BT-SPA,The Ribbed Bath Towel in Spa,5.8,52,TR,630260
+RIB-BT-ST,The Ribbed Bath Towel in Stone,5.8,52,TR,630260
+RIB-BT-TC,The Ribbed Bath Towel in Terracotta,5.8,52,TR,630260
+RIB-BT-WT,The Ribbed Bath Towel in White,5.8,52,TR,630260
+RIB-HT-JD,The Ribbed Hand Towel in Jade,3.2,36,TR,630260
+RIB-HT-LT,The Ribbed Hand Towel in Latte,3.2,36,TR,630260
+RIB-HT-SPA,The Ribbed Hand Towel in Spa,3.2,36,TR,630260
+RIB-HT-ST,The Ribbed Hand Towel in Stone,3.2,36,TR,630260
+RIB-HT-TC,The Ribbed Hand Towel in Terracotta,3.2,36,TR,630260
+RIB-HT-WT,The Ribbed Hand Towel in White,3.2,36,TR,630260
+RIB-WC-JD,The Ribbed Wash Cloth in Jade,2.72,30,TR,630260
+RIB-WC-LT,The Ribbed Wash Cloth in Latte,2.72,30,TR,630260
+RIB-WC-SPA,The Ribbed Wash Cloth in Spa,2.72,30,TR,630260
+RIB-WC-ST,The Ribbed Wash Cloth in Stone,2.72,30,TR,630260
+RIB-WC-TC,The Ribbed Wash Cloth in Terracotta,2.72,30,TR,630260
+RIB-WC-WT,The Ribbed Wash Cloth in White,2.72,30,TR,630260
+RKT01BN,The Rib Knit Throw in Bone,24.95,124,TR,630492
+RKT02FIG,The Rib Knit Throw in Fig,24.95,124,TR,630492
+RKT03CHR,The Rib Knit Throw in Charcoal,24.95,124,TR,630492
+SCQ01RB,The Stitched Cotton Quilt in Rainbow,58.9,294.5,TR,630419
+SCQ02WT,The Stitched Cotton Quilt in White,57.9,294.5,TR,630419
+SCQ03BN,The Stitched Cotton Quilt in Bone,57.9,294.5,TR,630419
+SCQ04CHR,The Stitched Cotton Quilt in Charcoal,57.9,294.5,TR,630419
+SCQ05DSK,The Stitched Cotton Quilt in Dusk,57.9,294.5,TR,630419
+SCQ06CHO,The Stitched Cotton Quilt in Chocolate,57.9,294.5,TR,630419
+SDO-BS-MSS,The Sedona Beach Towel in Moss,9.15,56,TR,630260
+SDO-BS-TC,The Sedona Beach Towel in Terracotta,9.15,56,TR,630260
+SEA01BW,The Seasons Blanket in Black,22.25,98,TR,630231
+SEA02CB,The Seasons Blanket in Cream,22.25,98,TR,630231
+SEA03CB,The Seasons Blanket in White,22.25,98,TR,630231
+SHR01BL,The Blue Shoreline,6.5,50,TR,630291
+SHR02TN,The Tan Shoreline,6.5,50,TR,630291
+SHR03CL,The Colorful Shoreline,6.5,50,TR,630291
+SMP01NV,The Navy Simple,5.3,44,TR,630291
+SMP02ST,The Stone Simple,5.3,44,TR,630291
+SMP03AQ,The Blue Simple,5.3,44,TR,630291
+SMP04PN,The Pink Simple,5.3,44,TR,630291
+SMP05YW,The Yellow Simple,5.3,44,TR,630291
+SMP06MR,The Maroon Simple,5.3,44,TR,630291
+SOL01WT,The White Solana,7.5,46,TR,630291
+SPT01YL,The Yellow Spots,7.5,48,TR,630291
+SPT02GL,The Golden Spots,7.5,48,TR,630291
+SPT03ST,The Stone Spots,7.5,48,TR,630291
+SPT04GR,The Green Spots,7.5,48,TR,630291
+STN01BK,The Stone Blanket in Charcoal,20.8,82,TR,630231
+STN02BU,The Stone Blanket in Blue,20.8,82,TR,630291
+STN03DN,The Stone Blanket in Ice,20.8,82,TR,630231
+TDY01PS,The Pastel Tie Dye,8.25,50,TR,630291
+TID01CH,The Charcoal Tides XL,7.95,62,TR,630291
+TID02RS,The Rose Tides XL,7.95,62,TR,630291
+TID03MT,The Mint Tides XL,7.95,62,TR,630291
+TKK01LM,The Lime Tiki,6.5,50,TR,630291
+TKK02SN,The Sunset Tiki,6.5,50,TR,630291
+TKK03GR,The Grey Tiki,6.5,48,TR,630291
+TRB01GR,The Grey Tribal,6.95,48,TR,630291
+TRB03TF,The Tiffany Tribal,6.95,48,TR,630291
+TRB04PN,The Pink Tribal,6.95,48,TR,630291
+TRB05ST,The Stone Tribal,6.95,48,TR,630291
+TRB06MR,The Maroon Tribal,6.95,48,TR,630291
+TRB07YL,The Yellow Tribal,6.95,48,TR,630291
+WFB01CH,The Waffle Blanket in Charcoal,22.3,88,TR,630231
+WFB02IC,The Waffle Blanket in Ice,21.8,50,TR,630291
+WFB03FG,The Waffle Blanket in Fog,22.3,88,TR,630231
+WFB04BL,The Waffle Blanket in Blue,21.8,50,TR,630291
+WFB05HN,The Waffle Blanket in Honey,21.8,50,TR,630291
+WFB06SG,The Waffle Blanket in Sage,22.3,88,TR,630231
+WFB07CD,The Waffle Blanket in Cider,22.3,88,TR,630231
+WFL-BS-CHR,The Waffle Bath Sheet in Charcoal,8.95,62,TR,630260
+WFL-BS-WT,The Waffle Bath Sheet in White,8.95,62,TR,630260
+WFL-HT-CHR,The Waffle Bath Hand Towel in Charcoal,5.9,44,TR,630260
+WFL-HT-WT,The Waffle Bath Hand Towel in White,5.9,44,TR,630260
+WFL01CH,Charcoal Waffle,8.15,50,TR,630291
+WFL02GR,The Ice Waffle,8.15,50,TR,630291
+WFL03SV,The Silver Waffle,8.15,50,TR,630291
+WFL05HN,The Honey Waffle,8.15,50,TR,630291
+WFL06OL,The Olive Waffle,8.15,50,TR,630291
+WFL07QR,The Quartz Waffle,8.15,52,TR,630291
+WFL08GN,The Granite Waffle,8.15,52,TR,630291
+WFL09CR,The Crimson Waffle,8.15,52,TR,630291
+WVS-BS-CRL,The Waves Beach Towel in Coral,9.95,56,TR,630260
+WVS-BS-SEA,The Waves Beach Towel in Sea,9.95,56,TR,630260
