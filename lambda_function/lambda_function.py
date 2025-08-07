@@ -4,8 +4,13 @@ import io
 from mapping import MAPPING
 from typing import List, Dict
 import logging
-from dotenv import load_dotenv
-load_dotenv()
+import os
+if os.getenv("ENV", "loval") == "local":
+    try:
+        from dotenv import load_dotenv
+        load_dotenv()
+    except ImportError:
+        pass
 
 s3 = boto3.client('s3')
 logger = logging.getLogger()
